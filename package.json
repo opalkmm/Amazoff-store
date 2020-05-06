@@ -1,0 +1,25 @@
+{
+  "name": "Amazoff-store",
+  "version": "1.0.0",
+  "description": "this app allows users to buy products from the available stock in Amazoff online store.",
+  "main": "amazoffCustomer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/opalkmm/Amazoff-store.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/opalkmm/Amazoff-store/issues"
+  },
+  "homepage": "https://github.com/opalkmm/Amazoff-store#readme",
+  "dependencies": {
+    "easy-table": "^1.1.1",
+    "inquirer": "^7.1.0",
+    "mysql": "^2.18.1"
+  }
+}
